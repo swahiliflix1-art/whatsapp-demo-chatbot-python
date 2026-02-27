@@ -216,8 +216,8 @@ This chatbot version supports 5 languages ​​- English, Kazakh, Russian, Espa
 Before greeting a user, the chatbot will ask to select the language of communication:
 ```
 *1* - English
-*2* - Kazakh
-*3* - Russian
+*2* - swahili
+*3* - french
 *4* - Español
 *5* - עברית
 ```
